@@ -13,4 +13,5 @@
 
 # Artifacts #
 ## Rust ##
+dist/
 target/

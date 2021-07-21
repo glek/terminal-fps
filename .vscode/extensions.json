@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "rust-lang.rust",
+        "jscearcy.rust-doc-viewer",
+        "jedeop.crates-completer",
+        "serayuzgur.crates"
+    ]
+}

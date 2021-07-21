@@ -10,3 +10,7 @@
 
 # Logs #
 *.log*
+
+# Artifacts #
+## Rust ##
+target/
